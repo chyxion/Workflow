@@ -1,5 +1,4 @@
 Workflow
 ========
 
-a simple workflow framwork
-最近工作忙，过几天提交
+一个简单的工作流引擎，包含流程设计，流程监控等功能
